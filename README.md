@@ -1,6 +1,6 @@
 # Test Plugin Proxy Capacitor
 
-### Issue link: 
+### Issue link: https://github.com/ionic-team/capacitor-plugins/issues/615
 
 This repo has been created to communicate with the Capacitor's community in order to try to find a way to mock Capacitor's plugins that are Proxied.
 

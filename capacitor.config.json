@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Test Plugin Proxy Capacitor",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

@@ -1,6 +1,6 @@
-#Test Plugin Proxy Capacitor
+# Test Plugin Proxy Capacitor
 
-## Issue link: 
+### Issue link: 
 
 This repo has been created to communicate with the Capacitor's community in order to try to find a way to mock Capacitor's plugins that are Proxied.
 

@@ -4,7 +4,7 @@
 
 This repo has been created to communicate with the Capacitor's community in order to try to find a way to mock Capacitor's plugins that are Proxied.
 
-As you can see in the `app.component.spec.ts`, I try to mock two things from Capacitor:
+As you can see in the `app.component.spec.ts`, I try to mock (spyOn) two methods from different Capacitor's plugins:
 
 - `isNativePlatform`, coming from `@capacitor/core`, this one is not Proxied: here mocking is a success
 - `getInfo`, coming from `@capacitor/app`, this one is Proxied: in this case mocking is a failure
